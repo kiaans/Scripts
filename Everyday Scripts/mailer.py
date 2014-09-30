@@ -1,5 +1,4 @@
 #Author: Kumar Sumeet
-#Script to spam someone's mailbox on this auspicious Tannuday :D
 
 #For Connecting to Gmail SMTP server.  
 import smtplib  
